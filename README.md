@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Athrava%20Gote&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20%7C%20Problem%20Solving%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Atharva%20Gote&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20%7C%20Problem%20Solving%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5EEAD4&center=true&vCenter=true&width=650&lines=UG+at+IIT+Bombay;Building+with+Software+%26+AI;Exploring+Generative+AI+%26+Agentic+Systems;Learning+by+Building" alt="Typing animation" />
