@@ -22,7 +22,7 @@
 
 I'm a **Student and developer** interested in the intersection of **software engineering and intelligent systems**.
 
-I enjoy understanding how things work under the hood, experimenting with emerging technologies, and turning ideas into working systems — from conventional software to **machine learning, generative AI, and agentic applications**.
+I enjoy understanding how things work under the hood, experimenting with emerging technologies, and turning ideas into working systems-from conventional software to **machine learning, generative AI, and agentic applications**.
 
 - 🔭 Currently building: **projects around AI, software & intelligent systems**
 - 🌱 Currently exploring: **Generative AI, LLMs, agentic systems & modern ML**
